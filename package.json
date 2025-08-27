@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/doloremque-amet-accusantium-quis",
-  "version": "21.37.434",
+  "version": "22.37.434",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -224,5 +224,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/doloremque-amet-accusantium-quis/issues"
   },
-  "packageManager": "yarn@4.9.3"
+  "packageManager": "yarn@4.9.4"
 }
